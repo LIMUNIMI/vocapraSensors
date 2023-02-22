@@ -1,2 +1,2 @@
-# vocapraSensors
-Repository contenente il codice dei sensori per il progetto Vocapra
+# vocapraSensori
+Repository contenente il codice per i sensori del progetto Vocapra
